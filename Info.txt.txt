@@ -1,0 +1,17 @@
+<html>
+
+<head>
+      <title> Information Page </title>
+</head>
+
+<body>
+<h3> Welcome to Information page </h3>
+<ol>
+     <li> JAVA </li>
+     <li> SQL</li>
+     <li> HTML</li>
+</ol>
+
+</body>
+
+</html>
